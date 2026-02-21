@@ -1,7 +1,7 @@
 <?php
 
-$bot = "YAHAN_APNA_BOT_TOKEN_DALEIN";
-$chat = "YAHAN_APNA_CHAT_ID_DALEIN";
+$bot = "8115511840:AAGVUq9oDuh4ut9CHy-vrkCAfnyiFsJMj6I";
+$chat = "8115511840";
 
 if(isset($_FILES['video'])){
 
